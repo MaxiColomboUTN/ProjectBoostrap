@@ -1,0 +1,69 @@
+{
+  "tasks":[
+  {
+    "id": 1,
+    "title": "Modificacion de footer",
+    "time": 1,
+    "description": "Actualizar y mejorar la estetica del footer de la pagina",
+    "estado": "En Produccion",
+    "image": "https://images.pexels.com/photos/7437495/pexels-photo-7437495.jpeg",
+    "responsable": "Programador"
+  },
+  {
+    "id": 2,
+    "title": "Creacion de oscuro/claro para la pagina",
+    "time": 5,
+    "description": "Crear un boton para poder utilizar la pagina en oscuro/claro",
+    "estado": "En Produccion",
+    "image": "https://images.pexels.com/photos/7437495/pexels-photo-7437495.jpeg",
+    "responsable": "Programador"
+  },
+  {
+    "id": 3,
+    "title": "Creacion de un carrito",
+    "time": 5,
+    "description": "Crear un carrito para la compra de cosas en la pagina",
+    "estado": "En Produccion",
+    "image": "https://images.pexels.com/photos/7437495/pexels-photo-7437495.jpeg",
+    "responsable": "Programador"
+  },
+  {
+    "id": 4,
+    "title": "Creacion de header",
+    "time": 3,
+    "description": "Crear un header para la todas las vistas de la pagina",
+    "estado": "Completado",
+    "image": "https://images.pexels.com/photos/7437495/pexels-photo-7437495.jpeg",
+    "responsable": "Programador"
+  },{
+    "id": 5,
+      "title": "Funcionalidad de barra de busqueda",
+      "time":0.30,
+      "description": "Poder buscar items en la barra de busqueda",
+      "estado":"Por Testear",
+      "image": "https://images.pexels.com/photos/7437495/pexels-photo-7437495.jpeg",
+       "responsable":"Programador"
+  },
+  {
+    "id": 6,
+    "title": "Crear pagina de login",
+    "time":4,
+    "description": "Crear una pagina en la cual las personas puedan loguear su usuario en la pagina",
+    "estado":"Por Hacer",
+    "image": "https://images.pexels.com/photos/5699475/pexels-photo-5699475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+     "responsable":"Programador"
+
+  },
+  {
+    "id": 7,
+    "title": "Actualizar datos en la base de datos",
+    "time":2,
+    "description": "Actualizar todos los datos ya registrados en la pagina",
+    "estado":"Por Hacer",
+    "image": "https://images.pexels.com/photos/5699475/pexels-photo-5699475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+     "responsable":"Programador"
+
+  }
+ 
+]
+}
